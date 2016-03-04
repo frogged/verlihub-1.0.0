@@ -1,4 +1,1 @@
-Python scripts 1.0.0
-====================
-
-Python scripts collection for Verlihub 1.0.0 series.
+Python scripts for version 1.0.0.0
